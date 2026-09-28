@@ -1,0 +1,16 @@
+# www.uniworker.net
+# The humans responsible & technology colophon
+
+# TEAM
+
+  Marko Yatsyn -- developer -- @uniworker.studio
+
+  Alexey Manko -- admin
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, ES2015, Tailwindcss^4.3.3
